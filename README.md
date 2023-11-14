@@ -1,3 +1,7 @@
+NOTE: This app requires Node in order to run (https://nodejs.org/en/download)
+
+If you have never run this app before and do not have the node_modules folder, please run "npm install", before npm start in the terminal
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
